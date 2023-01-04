@@ -23,6 +23,8 @@ You should understand what you are doing and have a reason to do it, you should 
 
 Some options will clean up the admin by tidying up what is visible in the backend. For example you can hide ACF from the Admin Menu, clients will rarely need to make changes to those options. These will only be hidden for clients, staff with a @matrixinternet email account will still see the Admin Menu items, notifications and nags.
 
+# Options Included:
+
 ## General
 
 - Hide this plugin for everybody except Matrix staff (Any user with @matrixinternet.ie domain in user email can still View it)
