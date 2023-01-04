@@ -119,6 +119,6 @@ Create a pull request and add other useful, recommended and common functions.
 
 It should be straightforward to follow the structure:
 
-Set up and add Carbon fields: matrix-helper/includes/class-matrix-helper-crb-loader.php
-Add Functions to any of the files inside any of the files matrix-helper/functions
-Additonal function files can be included matrix-helper/includes/class-matrix-helper-crb-loader.php
+1. Set up and add Carbon fields: matrix-helper/includes/class-matrix-helper-crb-loader.php
+2. Add Functions to any of the files inside any of the files matrix-helper/functions
+3. Additonal function files can be included matrix-helper/includes/class-matrix-helper-crb-loader.php
