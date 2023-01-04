@@ -109,7 +109,7 @@ Some options will clean up the admin by tidying up what is visible in the backen
 - Hide WP Mail SMTP from Dashboard menu - note settings can still be accessed from Plugins menu item.
 - Hide Hubspot menu item.
 - Disable Wordfence dashboard widget.
-- Hide Wordfence menu items. These should be renabled when checking scans, running scans, running reports etc, otherwise there is no way to check scan results.
+- Hide Wordfence menu items.
 - Hide iThemes Security menu items.
 
 ## Bonus
