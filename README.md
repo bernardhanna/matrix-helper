@@ -10,7 +10,7 @@ BEFORE MATRIX HELPER:
 
 AFTER MATRIX HELPER (EXTREME CLEAN)
 
-![Screenshot from 2023-01-04 15-14-47](https://user-images.githubusercontent.com/47034430/210589230-e0c163b2-9029-4029-9c1f-3ba95d7fa50f.png)
+![after](https://user-images.githubusercontent.com/47034430/210589772-0a2e50d2-c004-4f80-a6da-98b3b179489a.png)
 
 
 Matrix helper modifies default behaviour of WordPress and various plugins to make it more suitable for customer projects, forcing our preferences and making sure that all the unnecessary information is hidden or unreachable.
