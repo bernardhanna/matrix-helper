@@ -4,9 +4,20 @@ Matrix helper provides helpful functions and modifications for WordPress project
 
 The idea is we will use it to add common functions we tend to use over and over again on each Wordpress/ Woo Commerce projecs as well as ensure we implement the best security practices, maximise speed optimisiation, and clean up the bloated WP admin for our clients.
 
+BEFORE MATRIX HELPER:
+
+![Screenshot from 2023-01-04 15-14-47](https://user-images.githubusercontent.com/47034430/210589061-d1944f48-38e7-474b-9dc6-ba00a7553830.png)
+
+AFTER MATRIX HELPER (EXTREME CLEAN)
+
+![Screenshot from 2023-01-04 15-14-47](https://user-images.githubusercontent.com/47034430/210589230-e0c163b2-9029-4029-9c1f-3ba95d7fa50f.png)
+
+
 Matrix helper modifies default behaviour of WordPress and various plugins to make it more suitable for customer projects, forcing our preferences and making sure that all the unnecessary information is hidden or unreachable.
 
 All these modifications can be enabled or disabled with the plugin options.
+
+![Screenshot from 2023-01-04 15-26-31](https://user-images.githubusercontent.com/47034430/210589455-3bd25cda-58c9-42b0-b138-b16fa3b780ca.png)
 
 You should understand what you are doing and have a reason to do it, you should not just install and enable every option.
 
