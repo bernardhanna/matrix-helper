@@ -110,6 +110,10 @@ Some options will clean up the admin by tidying up what is visible in the backen
 - Hide Wordfence menu items. These should be renabled when checking scans, running scans, running reports etc, otherwise there is no way to check scan results.
 - Hide iThemes Security menu items.
 
+## Bonus
+
+- When deactivating a plugin, any annoying surveys that might pop up asking why you are deactivating are disabled once this plugin is activated.
+
 # CONTRIBUTING
 
 The plugin started life as a test drive for using Carbon fields to create a backend, a nice alternative to ACF
