@@ -17,7 +17,7 @@ Matrix helper modifies default behaviour of WordPress and various plugins to mak
 
 All these modifications can be enabled or disabled with the plugin options.
 
-![Screenshot from 2023-01-04 15-26-31](https://user-images.githubusercontent.com/47034430/210589455-3bd25cda-58c9-42b0-b138-b16fa3b780ca.png)
+![Screenshot from 2023-01-04 15-26-31](https://user-images.githubusercontent.com/47034430/210589455-3bd25cda-58c9-42b0-b138-b16fa3b780ca.png) 
 
 You should understand what you are doing and have a reason to do it, you should not just install and enable every option.
 
