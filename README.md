@@ -2,7 +2,7 @@
 
 Matrix helper provides helpful functions and modifications for WordPress projects.
 
-The idea is we will use it to add common functions we tend to use over and over again on each Wordpress/ Woo Commerce projecs as well as ensure we implement the best security practices, maximise speed optimisiation, and clean up the bloated WP admin for our clients.
+The idea is we will use it to add common functions we tend to use over and over again on each Wordpress/ Woo Commerce projects as well as ensure we implement the best security practices, maximise speed optimisiation, and clean up the bloated WP admin for our clients.
 
 BEFORE MATRIX HELPER:
 
