@@ -101,7 +101,7 @@ Some options will clean up the admin by tidying up what is visible in the backen
 
 # CONTRIBUTING
 
-The plugin started life as a test drive for using Carbn fields to create a backend, a nice alternative to ACF
+The plugin started life as a test drive for using Carbon fields to create a backend, a nice alternative to ACF
 https://carbonfields.net/
 
 Create a pull request and add other useful, recommended and common functions.   
