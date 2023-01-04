@@ -115,4 +115,10 @@ Some options will clean up the admin by tidying up what is visible in the backen
 The plugin started life as a test drive for using Carbon fields to create a backend, a nice alternative to ACF
 https://carbonfields.net/
 
-Create a pull request and add other useful, recommended and common functions.   
+Create a pull request and add other useful, recommended and common functions. 
+
+It should be straightforward to follow the structure:
+
+Set up and add Carbon fields: matrix-helper/includes/class-matrix-helper-crb-loader.php
+Add Functions to any of the files inside any of the files matrix-helper/functions
+Additonal function files can be included matrix-helper/includes/class-matrix-helper-crb-loader.php
