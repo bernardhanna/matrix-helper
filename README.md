@@ -28,7 +28,7 @@ Some options will clean up the admin by tidying up what is visible in the backen
 - Hide this plugin for everybody except Matrix staff (Any user with @matrixinternet.ie domain in user email can still View it)
 - Disable comments: Completly disable comments sitewide - Most websites we build do not require comments to be enabled.
 - Update login page image link URL - This will redirect it to the clients Home URL instead of Wordpress
-- Limit Excerpt number of words - Example of a Common function that would regularly be found in functions.php!
+- Limit Excerpt number of words - Example of a Common function that would regularly be found in functions.ph, lets add more
 
 ## Performance
 
