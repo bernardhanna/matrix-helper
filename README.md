@@ -130,7 +130,7 @@ It should be straightforward to follow the structure:
 
 2. Add Functions to any of the files inside any of the files matrix-helper/functions
 
-![Screenshot from 2023-01-04 15-54-47](https://user-images.githubusercontent.com/47034430/210595542-132132be-d25a-4a62-9fa1-f15ba2f78633.png)
+![Screenshot from 2023-01-05 10-08-17](https://user-images.githubusercontent.com/47034430/210754886-5aa688b7-250b-44d6-972a-0bcd3a77950a.png)
 
 
 3. Additonal function files can be included matrix-helper/includes/class-matrix-helper-crb-loader.php
