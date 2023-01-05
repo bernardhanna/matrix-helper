@@ -3,7 +3,7 @@
  * @Author: Bernard Hanna
  * @Date:   2022-10-20 10:52:11
  * @Last Modified by:   Bernard Hanna
- * @Last Modified time: 2023-01-03 15:58:48
+ * @Last Modified time: 2023-01-05 10:00:47
  */
 if ( ! function_exists( 'crb_initilize_carbon_fields' ) ) {
   function mh_admin_improvements() {
@@ -18,8 +18,8 @@ if ( ! function_exists( 'crb_initilize_carbon_fields' ) ) {
         remove_action( 'wp_head', '_admin_bar_bump_cb' );
         add_filter( 'show_admin_bar', '__return_false' );
       }
+      add_action( 'get_header', 'mh_remove_admin_bar' );
     }
-    add_action( 'get_header', 'mh_remove_admin_bar' );
 	}
 	add_action( 'carbon_fields_register_fields', 'mh_admin_improvements' );
 } 
