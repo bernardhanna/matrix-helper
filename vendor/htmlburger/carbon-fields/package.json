@@ -68,7 +68,7 @@
     "@wordpress/data": "^4.0.1",
     "@wordpress/date": "^3.0.1",
     "@wordpress/editor": "^9.0.3",
-    "@wordpress/element": "^2.1.8",
+    "@wordpress/element": "^2.20.3",
     "@wordpress/hooks": "^2.0.3",
     "@wordpress/i18n": "^3.1.0",
     "callbag-basics": "^3.0.0",
