@@ -61,13 +61,13 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.1.5",
-    "@wordpress/api-fetch": "^2.2.8",
+    "@wordpress/api-fetch": "^3.21.0",
     "@wordpress/blocks": "^6.0.2",
-    "@wordpress/components": "^7.0.3",
+    "@wordpress/components": "^20.0.0",
     "@wordpress/compose": "^3.0.0",
     "@wordpress/data": "^4.0.1",
-    "@wordpress/date": "^3.0.1",
-    "@wordpress/editor": "^9.0.3",
+    "@wordpress/date": "^4.26.2",
+    "@wordpress/editor": "^13.3.3",
     "@wordpress/element": "^2.1.8",
     "@wordpress/hooks": "^2.0.3",
     "@wordpress/i18n": "^3.1.0",
@@ -90,7 +90,7 @@
     "react-dom": "^16.6.3",
     "react-flatpickr": "^3.6.4",
     "react-onclickoutside": "^6.7.1",
-    "react-select": "^2.1.1",
+    "react-select": "^2.2.0",
     "refract-callbag": "^4.0.0"
   }
 }
